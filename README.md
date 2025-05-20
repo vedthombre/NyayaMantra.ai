@@ -17,6 +17,7 @@ Features
 6)AI-driven recommendations to speed up research
 
 
+
 Built With
 
 1)Botpress – Conversational AI platform
@@ -24,6 +25,7 @@ Built With
 2)HTML – Structure and layout of the web interface
 
 3)CSS – Styling and responsive design
+
 
 
 Getting Started
@@ -44,9 +46,12 @@ Open Botpress Studio
 Import the bot files from this repository
 
 
+
 Open the web interface:
 
 Navigate to the index.html file in your browser to access the platform’s front end.
+
+
 
 
 Run the bot:
@@ -58,6 +63,7 @@ bash
 bp
 
 Ensure the chatbot is connected to your HTML/CSS front end.
+
 
 
 Usage:
