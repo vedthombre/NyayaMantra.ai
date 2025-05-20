@@ -1,0 +1,132 @@
+.flex-active-slide
+{
+    height: 500px;
+    display: block;
+}
+.custom-navbar 
+{
+    background-color: black;
+    padding: 10px;
+}
+   .custom-navbar .navbar-nav 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}  
+ .custom-navbar .nav-link 
+{
+    color: white;
+    padding:  10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+  .separator 
+{
+    color:white;
+    font-size: 18px;
+    padding: 20px;
+}
+.custom-navbar .nav-link:hover 
+{
+    color: white;
+}
+.custom-navbar .nav-link.active
+{
+    color: white;
+}
+.backgroundimage
+{
+    height: 500px;
+    width: 500px;
+    display: block;
+}
+.text-center .About 
+{
+    color: black;
+    padding: 10px;
+    font-size: 40px;
+}
+.border
+{
+    border: gray;
+    font-weight: 700;
+    background-color: gray;
+   
+}
+#breadcrumb {
+    width: 100%;
+}
+.push-left {
+    float: left !important;
+}
+.breadcrumbs {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Aligns list items horizontally */
+}
+
+.breadcrumbs li {
+    margin-right: 10px; /* Adds spacing between items */
+    display: inline; /* Ensures each list item stays inline */
+}
+
+.breadcrumbs li::after {
+    content: ">";
+    padding: 0 5px;
+    color: #000;
+}
+
+.breadcrumbs li:last-child::after {
+    content: ""; /* Removes the ">" after the last item */
+}
+
+.breadcrumbs a {
+    text-decoration: none;
+    color: #000;
+}
+
+.breadcrumbs .current {
+    font-weight: bold; /* Highlights the current page */
+}
+/* Apply to elements like the heading, buttons, and lists */
+.style-5 .accent-border-color, 
+.style-5 .btn-theme, 
+.style-5 .btn-gov, 
+.style-5 .gen-list.static-link-list4 ul li a > span, 
+.gen-list.static-link-list4 ul li .style-5 a > span, 
+.style-5 .box-style1:before {
+    border-color: #9b8154 !important; /* Custom accent border color */
+}
+
+/* Custom styling for the heading */
+.heading2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Specific styling for the box-style1 with border1 */
+.box-style1 {
+    border: 2px solid #9b8154; /* Match accent-border-color */
+    padding: 10px;
+}
+/* Remove specific top and right borders */
+.border-top0 
+{
+    border-top: none;
+}
+.border-right0 
+{
+    border-right: none;
+}
+.pd-bottom5 
+{
+    padding-bottom: 5px;
+}
+.pd-top5 
+{
+    padding-top: 5px;
+}
