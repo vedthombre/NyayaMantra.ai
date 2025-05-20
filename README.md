@@ -17,6 +17,7 @@ Features:
 6)AI-driven recommendations to speed up research.
 
 Built With:
+
 1)Botpress – Conversational AI platform.
 
 2)HTML – Structure and layout of the web interface.
@@ -28,7 +29,9 @@ Getting Started:
 Clone the repository:
 
 bash
+
 git clone https://github.com/yourusername/nyayamantra.ai.git
+
 
 Install Botpress:
 
@@ -36,17 +39,26 @@ Follow the official Botpress installation guide.
 
 Import the Nyayamantra.ai bot:
 
+
 Open Botpress Studio.
+
 Import the bot files from this repository.
 
+
 Open the web interface:
+
 Navigate to the index.html file in your browser to access the platform’s front end.
 
 Run the bot:
+
 Start Botpress using the Studio or the command line:
+
 bash
+
 bp
+
 Ensure the chatbot is connected to your HTML/CSS front end.
+
 
 Usage:
 Interact with the web-based chatbot to ask about past cases, legal outcomes, and laws.
