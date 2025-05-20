@@ -4,26 +4,38 @@ Nyayamantra.ai is an AI-powered legal information platform built using Botpress 
 
 Features:
 
-1)Conversational AI chatbot for intuitive legal queries
-2)Search and view past case records and outcomes
-3)Access to comprehensive legal statutes and laws
-4)Tailored responses for citizens, lawyers, and judges
-5)Clean, responsive web interface (HTML, CSS)
-6)AI-driven recommendations to speed up research
+1)Conversational AI chatbot for intuitive legal queries.
+
+2)Search and view past case records and outcomes.
+
+3)Access to comprehensive legal statutes and laws.
+
+4)Tailored responses for citizens, lawyers, and judges.
+
+5)Clean, responsive web interface (HTML, CSS).
+
+6)AI-driven recommendations to speed up research.
 
 Built With:
-1)Botpress – Conversational AI platform
-2)HTML – Structure and layout of the web interface
-3)CSS – Styling and responsive design
+1)Botpress – Conversational AI platform.
+
+2)HTML – Structure and layout of the web interface.
+
+3)CSS – Styling and responsive design.
 
 Getting Started:
+
 Clone the repository:
+
 bash
 git clone https://github.com/yourusername/nyayamantra.ai.git
 
 Install Botpress:
+
 Follow the official Botpress installation guide.
+
 Import the Nyayamantra.ai bot:
+
 Open Botpress Studio.
 Import the bot files from this repository.
 
