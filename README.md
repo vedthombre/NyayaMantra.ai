@@ -20,8 +20,7 @@ FEATURES:
   6)AI-driven recommendations to speed up research
 
 
-
-Built With
+BUILT WITH:
 
   1)Botpress – Conversational AI platform
   
@@ -30,8 +29,7 @@ Built With
   3)CSS – Styling and responsive design
 
 
-
-Getting Started
+GETTING STARTED:
   
   Clone the repository:
   
@@ -68,10 +66,12 @@ Getting Started
 
 
 
-Usage:
+USAGE:
+
   Interact with the web-based chatbot to ask about past cases, legal outcomes, and laws.
   
   The bot provides tailored responses based on user type (citizen, lawyer, judge).
 
-Contributing:
+CONTRIBUTIONS:
+
   Contributions are welcome! Please open an issue or submit a pull request for improvements.
