@@ -3,6 +3,7 @@ NYAYAMANTRA.AI
 Nyayamantra.ai is an AI-powered legal information platform built using Botpress for conversational AI, along with custom HTML and CSS for a user-friendly web interface. The platform empowers citizens, lawyers, and judges to search past cases, view outcomes, and access relevant laws—streamlining legal research and accelerating justice delivery in India.
 
 Features:
+
 1)Conversational AI chatbot for intuitive legal queries
 2)Search and view past case records and outcomes
 3)Access to comprehensive legal statutes and laws
